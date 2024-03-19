@@ -1,0 +1,253 @@
+*{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+
+}
+
+
+/* Here is the css code for header */
+.nav_c{
+  background-color: #000000 !important;
+  padding-top: 25px;
+}
+
+.nav_menu{
+  color: #909090;
+  font-weight: 600;
+}
+
+.btn-nav-c{
+  padding: 10px 30px;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 1px solid #6DE754;
+  transition: 0.3s;
+}
+
+.btn_sign{ 
+  color: #FFFFFF;
+  margin-right: 10px;
+
+}
+
+.btn_sign:hover{
+  color:black;
+  background-color: #6DE754;
+}
+
+.btn_GS{
+  color:black;
+  background-color: #6DE754;
+  outline: 2px solid #6DE754 ;
+
+}
+.btn_GS:hover{
+  color: white;
+  background: black;
+}
+
+.nav_menu:hover{
+  color: white;
+}
+
+/* header-end */
+
+
+/* Here is the css code for banner section */
+.banner{
+  background-color: black;
+  color: #909090 ;
+
+}
+.banner-h1{
+  color: #FFFFFF;
+}
+.banner-h1,span{
+  font-size: 88px;
+  font-weight: 600;
+}
+span{
+  color:#6DE754 ;
+}
+.banner-1st-part{
+  padding-top: 50px;
+}
+.banner-1st-part p{
+  padding: 20px 275px;
+}
+.btn-start{
+  background-color: #6DE754 ;
+  color: black;
+  outline: 2px solid #6DE754 ;
+  position: absolute;
+  top: 8px;
+  right: 12px;
+}
+
+.btn-start:hover{
+  color: white;
+}
+.banner-form{
+  position: relative;
+}
+.form-c{
+  padding: 20px 30px;
+  border-radius: 20px;
+  background-color: #161815 !important;
+  color: white !important;
+  border: 1px solid #909090 ;
+}
+
+::placeholder{
+  color: white !important;
+}
+
+.info-cards{
+  background-color: #1E201D;
+  padding: 24px;
+  border-radius: 20px;
+  margin-top: 56px; 
+}
+
+.info-cards h4{
+  color: white;
+  padding-top: 20px;
+  margin: 0;
+  font-size: 16px;
+}
+
+.info-cards p{
+  color: #909090;
+  padding-top: 16px;
+}
+
+/* here is the css code for about-1 section */
+.about-1{
+  background-color: #000000;
+  padding-top: 60px ;
+}
+
+.about-1 img{
+  width: 100%;
+  border-radius: 10px;
+}
+/* about-1 section end */
+
+/* here is the css code for about-2 section */
+.about-2{
+  background-color: #000000;
+  color: white;
+  padding: 60px 0;
+}
+
+.about2-first-half h1{
+  font-size: 48px;
+  
+}
+
+.about2-first-half p{
+  color: #909090;
+  padding: 16px 20px;
+
+}
+
+.btn_create{
+  color: white;
+}
+
+.btn_create:hover{
+  color:black;
+  background-color: #6DE754;
+}
+/* about-2 section end */
+
+/* here is ai-section css code */
+.ai-section{
+  background-color: #6DE754;
+  padding: 60px 0;
+}
+
+.ai-first-part-1 h2{
+  font-size: 48px;
+}
+
+.ai-first-part-1 p{
+  padding-right: 10px;
+  padding: 24px 0;
+  
+}
+.btn-ai-c{
+  border: 2px solid black;
+
+}
+.btn-ai-c:hover{
+  background-color:black ;
+  color:#6DE754 ;
+}
+
+.img-first-ai img{
+  width: 100%;
+}
+/* ai section end */
+
+.resume-builder-section{
+  background-color: #000000;
+  color: #FFFFFF;
+  padding: 60px 0;
+}
+
+.resume-btn-c{
+  color: #FFFFFF;
+  outline: 2px solid #6DE754;
+}
+
+.resume-btn-c:hover{
+  background-color:#6DE754 ;
+  color:white;
+
+}
+
+.resume-first-part h2{
+  font-size: 48px;
+}
+
+.resume-first-part p{
+  color: #909090;
+  padding: 20px 0;
+}
+
+.footer-first-part{
+  background-color: #6DE754;
+  color: #000000;
+  padding: 40px 0;
+}
+.footer-first-part h1{
+  font-size: 64px;
+}
+
+.footer-first-part p{
+  padding: 10px 380px;
+}
+
+.footer-second-part{
+  padding: 60px 0;
+}
+
+.footer-second-part h2{
+  font-size: 20px;
+}
+
+.footer-second-part ul li ,a{
+  padding-top: 10px;
+}
+
+
+.footer-last-part{
+  padding: 20px 0;
+}
+
+.footer-last-part ul li a{
+  text-decoration: none;
+  color: black;
+}
