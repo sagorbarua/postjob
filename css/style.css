@@ -92,11 +92,16 @@ span{
   position: relative;
 }
 .form-c{
-  padding: 20px 30px;
+  padding: 20px 0px;
+  padding-left:30px ;
+  padding-right: 180px;
   border-radius: 20px;
   background-color: #161815 !important;
   color: white !important;
   border: 1px solid #909090 ;
+}
+.form-control:focus{
+  border-color: #6DE754;
 }
 
 ::placeholder{
