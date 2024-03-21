@@ -101,7 +101,8 @@ span{
   border: 1px solid #909090 ;
 }
 .form-control:focus{
-  border-color: #6DE754;
+  border-color: rgb(109, 231, 84);
+  box-shadow: 0 0 0 0.25rem rgba(109, 231, 84, 0.25);
 }
 
 ::placeholder{
