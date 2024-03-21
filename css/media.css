@@ -13,6 +13,41 @@
   .nav-toggler-c{
     font-size: 16px;
   }
+  .banner-h1, span {
+    font-size: 55px;
+}
+.banner-1st-part p {
+  padding: 20px 20px;
+}
+.footer-first-part p {
+  padding: 10px 28px;
+}
+.footer-second-part h2 {
+  font-size: 20px;
+  padding-top: 15px;
+}
+.footer-last-part ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+.footer-first-part h1 {
+  font-size: 55px;
+}
+.resume-first-part h2 {
+  font-size: 40px;
+  padding-top: 15px;
+}
+.ai-first-part-1 h2 {
+  font-size: 40px;
+}
+.img-first-ai{
+  padding-top: 10px;
+}
+.footer-first-part p {
+  padding: 10px 5px;
+}
+
 }
 
  /* Small devices (landscape phones, 576px and up) */
@@ -51,7 +86,7 @@
     padding: 20px 175px;
   }
   .info-cards {
-    padding: 32px;
+      padding: 8px;
   }
 .info-cards p {
     text-align: center;
@@ -97,13 +132,18 @@
   padding-top: 10px;
 }
 
+.ai-section {
+  padding: 40px 0;
+}
 
 
  }
 
  /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) { 
-
+  .info-cards {
+    padding: 20px;
+  }
  }
 
  /* Extra large devices (large desktops, 1200px and up) */

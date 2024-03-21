@@ -207,7 +207,9 @@ span{
   color:white;
 
 }
-
+.resume-img img{
+  width: 100%;
+}
 .resume-first-part h2{
   font-size: 48px;
 }
@@ -242,6 +244,15 @@ span{
   padding-top: 10px;
 }
 
+.footer-second-part ul li a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.footer-second-part ul li a:hover{
+  color: #FFFFFF;
+}
+
 
 .footer-last-part{
   padding: 20px 0;
@@ -250,4 +261,8 @@ span{
 .footer-last-part ul li a{
   text-decoration: none;
   color: black;
+}
+
+.footer-last-part ul li a:hover{
+  color: #FFFFFF;
 }
